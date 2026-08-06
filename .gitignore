@@ -33,6 +33,7 @@ yarn-error.log*
 # nestjs backend
 server/node_modules
 server/dist
+server/public/uploads
 
 # local database & backups
 dev.db
